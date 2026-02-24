@@ -4,4 +4,4 @@
 
 ### [Get stabbed](died1.md)
 
-### [Run](walk-to-church/starving-kid.md)
+### [Run](starving-kid.md)
