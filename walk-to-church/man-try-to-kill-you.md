@@ -2,6 +2,6 @@
 
 ### [Fight but get shot by magic gun](fall-into-water.md)
 
-### [Get stabbed](starving-kid.md)
+### [Get stabbed](died1.md)
 
 ### [Run](walk-to-church/starving-kid.md)
