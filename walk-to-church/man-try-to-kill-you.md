@@ -4,4 +4,4 @@
 
 ### [Get stabbed](died1.md)
 
-### [Run](../walk-away/starving-kid.md)
+### [Run](../walk-away/starving-goblin.md)
