@@ -2,4 +2,4 @@
 
 ### [Walk towards the Church](walk-to-church/man-try-to-kill-you.md)
 
-### [Continue walking down your path](walk-away/starving-kid.md)
+### [Continue walking down your path](walk-away/starving-goblin.md)
