@@ -1,3 +1,5 @@
-# The goblin snaps its fingers and you awake in front of a black place with a large tree
+# The goblin snaps its fingers and you awake with nothing but you and nothing but pure darkness except a grand tree up ahead.
 
-### []()
+### [Step away from tree](teleport.md)
+
+### [Step towards the tree](step-toward-tree.md)
