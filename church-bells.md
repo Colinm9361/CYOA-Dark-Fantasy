@@ -1,4 +1,4 @@
-# The city church bells start ringing, and the people arounnd all start to follow the chimes of the bell. What do you do?
+# The city church bells start ringing, and the people around all start to follow the chimes of the bell. What do you do?
 
 ### [Walk towards the Church](walk-to-church/man-try-to-kill-you.md)
 
